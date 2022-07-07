@@ -2,8 +2,8 @@
 List of important Commands for Git
 
 ##### For Config:
-=> git config --global user.name "Bishworaj Poudel" 
-=> git config --global user.email "iambrp.tech@gmail.com"
+=> git config --global user.name "Bisikha Subedi" 
+=> git config --global user.email "bisikhasubedi26@gmail.com"
 
 ##### To View  user.name and email
 git config --list 
@@ -22,7 +22,7 @@ git config --list
 
 ##### To Commit Change
 => git commit -m 'Short and Sweet Message'
-=> git commit -am 'Staging and Comit Directly' 
+=> git commit -am 'Staging and Commit Directly' 
 
 ##### Clone Existing Repository
 => git clone <project_url>
